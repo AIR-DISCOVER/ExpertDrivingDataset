@@ -1,0 +1,126 @@
+{
+    "frame_0050.jpg": {
+        "frame_index": 50,
+        "frame_relative_time": 1.6500000000000001,
+        "Emotion value": {
+            "angry": 1.3721576891839504,
+            "disgust": 8.009732432867622e-07,
+            "fear": 4.1337016969919205,
+            "happy": 76.99478268623352,
+            "sad": 8.111105114221573,
+            "surprise": 5.569059029221535,
+            "neutral": 3.8191955536603928
+        },
+        "location": "happy",
+        "emotion_ratios": {
+            "angry": 1,
+            "disgust": 0,
+            "fear": 4,
+            "happy": 76,
+            "sad": 8,
+            "surprise": 5,
+            "neutral": 3
+        }
+    },
+    "frame_0178.jpg": {
+        "frame_index": 178,
+        "frame_relative_time": 5.8740000000000006,
+        "Emotion value": {
+            "angry": 0.8881417103111744,
+            "disgust": 5.262162972030637e-06,
+            "fear": 2.79974527657032,
+            "happy": 2.979283221065998,
+            "sad": 27.674919366836548,
+            "surprise": 0.00015055444464451284,
+            "neutral": 65.65775275230408
+        },
+        "location": "neutral",
+        "emotion_ratios": {
+            "angry": 0,
+            "disgust": 0,
+            "fear": 2,
+            "happy": 2,
+            "sad": 27,
+            "surprise": 0,
+            "neutral": 65
+        }
+    },
+    "frame_0180.jpg": {
+        "frame_index": 180,
+        "frame_relative_time": 5.94,
+        "Emotion value": {
+            "angry": 0.0020258086806279607,
+            "disgust": 1.9747353437789966e-12,
+            "fear": 0.5815630313009024,
+            "happy": 96.86573147773743,
+            "sad": 1.0663487870488098e-05,
+            "surprise": 0.008770538261160254,
+            "neutral": 2.541903592646122
+        },
+        "location": "happy",
+        "emotion_ratios": {
+            "angry": 0,
+            "disgust": 0,
+            "fear": 0,
+            "happy": 96,
+            "sad": 0,
+            "surprise": 0,
+            "neutral": 2
+        }
+    },
+    "frame_0345.jpg": {
+        "frame_index": 345,
+        "frame_relative_time": 11.385,
+        "Emotion value": {
+            "angry": 0.05135010608733965,
+            "disgust": 0.004132667656155732,
+            "fear": 8.68376894995796,
+            "happy": 24.305337584654996,
+            "sad": 66.60758454890068,
+            "surprise": 0.00040124673668489073,
+            "neutral": 0.34743181380561755
+        },
+        "location": "sad",
+        "emotion_ratios": {
+            "angry": 0,
+            "disgust": 0,
+            "fear": 8,
+            "happy": 24,
+            "sad": 66,
+            "surprise": 0,
+            "neutral": 0
+        }
+    },
+    "frame_0386.jpg": {
+        "frame_index": 386,
+        "frame_relative_time": 12.738000000000001,
+        "Emotion value": {
+            "angry": 0.011624758987017767,
+            "disgust": 3.0647827286250486e-07,
+            "fear": 98.85169281343308,
+            "happy": 0.006071095780725348,
+            "sad": 1.0621771812823795,
+            "surprise": 0.025459038318361243,
+            "neutral": 0.04297280462876056
+        },
+        "location": "fear",
+        "emotion_ratios": {
+            "angry": 0,
+            "disgust": 0,
+            "fear": 98,
+            "happy": 0,
+            "sad": 1,
+            "surprise": 0,
+            "neutral": 0
+        }
+    },
+    "emotion_all_ratios": {
+        "angry": 0,
+        "disgust": 0,
+        "fear": 20,
+        "happy": 40,
+        "sad": 20,
+        "surprise": 0,
+        "neutral": 20
+    }
+}
